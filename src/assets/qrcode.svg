@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300" height="300" viewBox="0 0 300 300" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="300" height="300" fill="#ffffff"/>
+  <g transform="scale(6)">
+    <!-- QR Code Data -->
+    <rect x="0" y="0" width="50" height="50" fill="none"/>
+    <rect x="0" y="0" width="11" height="11" fill="#000"/>
+    <rect x="39" y="0" width="11" height="11" fill="#000"/>
+    <rect x="0" y="39" width="11" height="11" fill="#000"/>
+    <rect x="2" y="2" width="7" height="7" fill="#fff"/>
+    <rect x="41" y="2" width="7" height="7" fill="#fff"/>
+    <rect x="2" y="41" width="7" height="7" fill="#fff"/>
+    <rect x="4" y="4" width="3" height="3" fill="#000"/>
+    <rect x="43" y="4" width="3" height="3" fill="#000"/>
+    <rect x="4" y="43" width="3" height="3" fill="#000"/>
+    <!-- QR Code Pattern -->
+    <path d="M15 0h20v2h-20zM15 48h20v2h-20z" fill="#000"/>
+    <path d="M0 15h2v20h-2zM48 15h2v20h-2z" fill="#000"/>
+  </g>
+</svg>
